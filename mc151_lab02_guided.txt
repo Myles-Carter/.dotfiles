@@ -1,0 +1,10 @@
+Myles Carter
+
+Syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
+The process I used to complete this lab was by using the commands ls -a (to view files and directories), then creating a vim text file, finally using the cp command (to move and rename a copied verson of my vim file).
